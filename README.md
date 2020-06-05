@@ -1,6 +1,6 @@
 # javaBurgerProject
 <div>
-  <h1>프로젝트 PPT</h1>
+ 프로젝트 PPT 파일
 (https://github.com/sdhGit/javaBurgerProject/files/4733835/3.ppt.pdf)
 </div>
 <div>
